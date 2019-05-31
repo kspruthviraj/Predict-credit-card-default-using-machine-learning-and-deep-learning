@@ -15,7 +15,7 @@ https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables: 
 
-X1: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit. 
+X1= Credit_limit: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit. 
 
 X2: Gender (1 = male; 2 = female). 
 
