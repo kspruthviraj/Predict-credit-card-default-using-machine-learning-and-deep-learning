@@ -1,5 +1,8 @@
 # Predict-credit-card-default-using-machine-learning
 
+**Problem Statement:**  The problem here is to classify which customer would default on its credit card payments, with respect to customer information already collected by the bank. This  would help the bank make better credit lending decisions based on customer  information they have already collected. One of the potential and most common solution to this problem is to use some type of regression technique like logistic regression, as mentioned in this publication. In this project, I will use logistic regression as benchmark algorithm and attempt to build a better classifier.
+
+**GOAL**: The goal is to resolve the problem by building and comparing predictive risk models using supervised learning algorithms
 
 **Data Set Information:**
 
